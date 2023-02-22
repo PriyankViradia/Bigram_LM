@@ -9,6 +9,7 @@ P(w2 | w1) = P(w1 w2) / P(w1) =
 - all text should be normalized to lowercase
 - Ignore lines with less than 3 words.
 - Input should be lines of text (separated by new line and/or carriage return)
+- give only 2 command line argument. first one, the input folder and the for the second, just name ( note: do not create the output direcoty it'll be created automatically, just give the name.)
 
 
 ## Background and Definition: N-Grams

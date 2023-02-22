@@ -1,4 +1,7 @@
 # Compute the Bigram LM, of the form “word1, wordenter code here2”, P(word2 | word1)
+
+> This is a Hadoop Mapreduce program
+
 P(w2 | w1) = P(w1 w2) / P(w1) =
 ( count(w1 w2) / count(total bigram) ) / ( count(w1)/count(total unigram))
 
